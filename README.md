@@ -22,7 +22,7 @@ var data = $('div').dataset();
 ```
 
 Methods provided:
-```
+```javascript
 // Return all data elements
 $().dataset();
 
@@ -41,12 +41,12 @@ $().dataset({
 
 The dataset plugin also does conversion from dashed attribute names to
 camelCase.
-```
+```javascript
 $().dataset('myKey', 'myvalue') => data-my-key="myvalue"
 ```
 
 Additional methods:
-```
+```javascript
 $().datasets();
 
 $().removeDataset();
@@ -57,7 +57,7 @@ $().datasetFind();
 ```
 
 Filter and find methods take the following arguments:
-```
+```javascript
 $().datasetFilter('key', 'value', 'comparison');
 ```
 
