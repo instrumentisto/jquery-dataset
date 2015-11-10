@@ -1,4 +1,10 @@
 # jQuery `.dataset()` plugin
+<img align="right" src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30">
+[![GitHub release](https://img.shields.io/github/release/instrumentisto/jquery-dataset.svg)](https://github.com/instrumentisto/jquery-dataset)
+[![Bower version](https://img.shields.io/bower/v/jquery-dataset.svg)](https://github.com/instrumentisto/jquery-dataset)
+[![Bower license](https://img.shields.io/bower/l/jquery-dataset.svg)](http://docs.jquery.com/License)
+[![Dependency Status](https://gemnasium.com/instrumentisto/jquery-dataset.svg)](https://gemnasium.com/instrumentisto/jquery-dataset)
+
 
 This plugin was originally authored in 2008 prior to jQuery having built in
 `.data()` functionality. This repository is being left public for archival

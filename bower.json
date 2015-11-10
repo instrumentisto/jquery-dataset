@@ -12,7 +12,7 @@
     "HTML5",
     "jquery"
   ],
-  "license": "MIT",
+  "license": "MIT/GPL",
   "ignore": [
     "**/.*",
     "dataset.html"
