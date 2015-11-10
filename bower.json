@@ -1,0 +1,23 @@
+{
+  "name": "jquery-dataset",
+  "version": "1.2",
+  "homepage": "https://github.com/instrumentisto/jquery-dataset",
+  "authors": [
+    "Jonathan Sharp <jonathan@jdsharp.com>"
+  ],
+  "description": "jQuery HTML5 data- attributes plugin",
+  "main": "jquery.dataset.min.js",
+  "keywords": [
+    "dataset",
+    "HTML5",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "dataset.html"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.4.2"
+  }
+}
